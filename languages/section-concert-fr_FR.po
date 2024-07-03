@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-20 14:48+0200\n"
+"PO-Revision-Date: 2023-09-20 14:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: section-concert.php:19 section-concert.php:21
+msgid "Concerts"
+msgstr "Concerts"
+
+#: section-concert.php:20 section-concert.php:22
+msgid "Concert"
+msgstr "Concert"
+
+#: section-concert.php:23
+msgid "Add New"
+msgstr "Nouveau"
+
+#: section-concert.php:24
+msgid "Add New Concert"
+msgstr "Ajouter nouveau concert"
+
+#: section-concert.php:25
+msgid "New Concert"
+msgstr "Nouveau concert"
+
+#: section-concert.php:26
+msgid "Edit Concert"
+msgstr "Modifier le concert"
+
+#: section-concert.php:27
+msgid "View Concert"
+msgstr "Voir le concert"
+
+#: section-concert.php:28
+msgid "All Concerts"
+msgstr "Tous les concerts"
+
+#: section-concert.php:29
+msgid "Search Concerts"
+msgstr "Chercher des concerts"
+
+#: section-concert.php:30
+msgid "Parent Concerts:"
+msgstr "Concerts parents :"
+
+#: section-concert.php:31
+msgid "No Concerts found."
+msgstr "Pas de concerts trouvés."
+
+#: section-concert.php:32
+msgid "No Concerts found in Trash."
+msgstr "Pas de concerts dans la corbeille."
+
+#: section-concert.php:33
+msgid "Concert Cover Image"
+msgstr "Image du concert"
+
+#: section-concert.php:34
+msgid "Set cover image"
+msgstr "Définir l'image du concert"
+
+#: section-concert.php:35
+msgid "Remove cover image"
+msgstr "Supprimer l'image"
+
+#: section-concert.php:36
+msgid "Use as cover image"
+msgstr "Utiliser comme image"
+
+#: section-concert.php:37
+msgid "Concert archives"
+msgstr "Archives de concerts"
+
+#: section-concert.php:38
+msgid "Insert into Concert"
+msgstr "Ajouter au concert"
+
+#: section-concert.php:39
+msgid "Uploaded to this Concert"
+msgstr "Ajouté à ce concert"
+
+#: section-concert.php:40
+msgid "Filter Concerts list"
+msgstr "Filtrer la liste des concerts"
+
+#: section-concert.php:41
+msgid "Concerts list navigation"
+msgstr "Navigation de la liste des concerts"
+
+#: section-concert.php:42
+msgid "Concerts list"
+msgstr "Liste des concerts"
+
+#: section-concert.php:79
+msgid "Concert's date"
+msgstr "Date du concert"
